@@ -10,10 +10,9 @@ Welcome to your hands-on Git practice! This is a **team lab** designed for 3-4 p
 
 | Name | GitHub Username |
 |------|-----------------|
-| [To be filled] | [To be filled] |
-| [To be filled] | [To be filled] |
-| [To be filled] | [To be filled] |
-| [To be filled] | [To be filled] |
+| Sergio Benito | trxs |
+| David Aliod | ganxxhy |
+| Carlos Sola | solettt |
 
 
 ## 📝 Lab rules
